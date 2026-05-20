@@ -1,42 +1,42 @@
-# Netflix Content Strategy Analytics Dashboard
+ Netflix Content Strategy Analytics Dashboard
 
-## 📊 Project Overview
+Project Overview
 
-Built an **interactive Power BI dashboard** analyzing **8,810 real Netflix titles** 
+Built an "interactive Power BI dashboard" analyzing 8,810 real Netflix titles** 
 to understand Netflix's content strategy, audience targeting, and global expansion.
 
-**Skills Demonstrated:** Power BI, Data Analysis, Excel, SQL, Business Intelligence, 
+Skills Demonstrated: Power BI, Data Analysis, Excel, SQL, Business Intelligence, 
 KPI Design, Data Visualization
 
 ---
 
-## 🎯 Dashboard KPIs
+Dashboard KPIs
 
-### **KPI 1: Content Growth Trend**
+KPI 1: Content Growth Trend**
 - **Metric:** Count of titles by release year (1920-2021)
 - **Finding:** Netflix grew from 50 titles to 1,000+ (10x growth)
 - **Peak:** 2015-2021 (exponential expansion)
 - **Insight:** Aggressive content acquisition followed by quality focus post-2020
 
-### **KPI 2: Series vs Movies by Year**
+KPI 2: Series vs Movies by Year**
 - **Metric:** Movies vs TV Shows breakdown by year
 - **Finding:** Movies dominated (90%) until 2015, now TV Shows exceed Movies
 - **Strategic Shift:** Netflix learned series drive better retention and engagement
 - **Insight:** 2020 onwards, TV shows are the primary focus
 
-### **KPI 3: Movie vs TV Show Distribution**
+KPI 3: Movie vs TV Show Distribution**
 - **Metric:** Total count of Movies vs TV Shows
 - **Finding:** 75% Movies (6,000 titles), 25% TV Shows (2,000 titles)
 - **Watch Time Reality:** Despite ratio, TV shows generate 50%+ of total watch hours
 - **Insight:** TV shows are stickier content (multiple seasons = 50+ hours per show)
 
-### **KPI 4: Content Quality Distribution**
+KPI 4: Content Quality Distribution**
 - **Metric:** Count of titles by content rating
 - **Finding:** 36% TV-MA, 25% R-rated (60% mature content total)
 - **Audience Target:** Adults 18-54 (not families)
 - **Insight:** Netflix positions as premium entertainment for adults, not kids platform
 
-### **KPI 5: Geographic Strategy**
+KPI 5: Geographic Strategy**
 - **Metric:** Count of content by country of origin
 - **Finding:** USA dominates (40%+), India 2nd (15%), UK 3rd (10%)
 - **Expansion:** Japan & South Korea growing (anime/K-dramas)
@@ -44,7 +44,7 @@ KPI Design, Data Visualization
 
 ---
 
-## 🔍 Key Business Insights
+ Key Business Insights
 
 1. **Growth Narrative:** Netflix evolved from a licensing platform to a content producer, 
    10x expansion in 20 years shows aggressive market capture strategy
@@ -63,7 +63,7 @@ KPI Design, Data Visualization
 
 ---
 
-## 💡 Business Recommendations
+ Business Recommendations
 
 ✅ **Continue Series Investment:** TV shows drive 50% watch time with 25% of titles
 ✅ **Expand Asian Content:** Japan/South Korea content has global appeal (anime, K-dramas)
@@ -73,7 +73,7 @@ KPI Design, Data Visualization
 
 ---
 
-## 🛠️ Tools & Technologies
+Tools & Technologies
 
 - **Power BI Desktop:** Interactive dashboard creation and visualization
 - **Microsoft Excel:** Data exploration and preparation
@@ -82,27 +82,7 @@ KPI Design, Data Visualization
 
 ---
 
-## 📁 Files in This Repository
-
-- `Netflix_Analytics_Dashboard_Final.pbix` - Power BI dashboard file
-- `Netflix_Titles.xlsx` - Dataset with 8,810 Netflix titles
-- `README.md` - This documentation
-- `ANALYSIS.md` - Detailed analysis and methodology
-- `Screenshots/` - Dashboard visualization images
-
----
-
-## 🚀 How to Use
-
-1. **Download** the `.pbix` file
-2. **Open** in Power BI Desktop (free download: powerbi.microsoft.com)
-3. **Connect** to the `Netflix_Titles.xlsx` dataset
-4. **Explore** interactive visualizations and filters
-5. **Use** insights for business strategy or presentations
-
----
-
-## 📊 Dashboard Features
+Dashboard Features
 
 ✅ 5 Interactive KPI visualizations
 ✅ Filterable by year, type, rating, country
@@ -112,7 +92,7 @@ KPI Design, Data Visualization
 
 ---
 
-## 🎓 What I Learned
+ What I Learned
 
 - Data analysis with real-world datasets
 - Power BI dashboard design and best practices
@@ -122,18 +102,7 @@ KPI Design, Data Visualization
 
 ---
 
-## 📈 Portfolio Value
-
-This project demonstrates:
-- ✅ Technical skills (Power BI, Excel, data analysis)
-- ✅ Business acumen (understanding content strategy, KPI design)
-- ✅ Communication skills (clear visualization and insights)
-- ✅ Attention to detail (real data, 8,810 records analyzed)
-- ✅ Problem-solving (turning raw data into actionable insights)
-
----
-
-## 📞 Contact & Links
+Contact & Links
 
 - **LinkedIn:** [linkedin.com/in/shraddha-tiwary-19a1111b6]
 - **Email:** shradhatiwary6@gmail.com
